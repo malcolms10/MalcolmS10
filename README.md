@@ -20,6 +20,6 @@
   <img align="center" src="https://img.shields.io/badge/-malcolmsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/malcolm_silva_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-malcolmsilva-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-malcolm_silva_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
